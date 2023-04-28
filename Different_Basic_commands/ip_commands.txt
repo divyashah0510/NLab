@@ -1,0 +1,5 @@
+ipconfig
+ipconfig/displaydns
+ipconfig/flushdns
+ipconfig/all
+ipconfig/release

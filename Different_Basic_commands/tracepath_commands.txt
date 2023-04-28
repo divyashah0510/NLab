@@ -1,0 +1,4 @@
+tracert <url_to_be_specified>
+tracert -d <url_to_be_specified or ip_address_to_be_specified>
+tracert -h <maximum_hops> <target_host>
+tracert -w timeout <target_host>

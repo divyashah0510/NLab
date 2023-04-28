@@ -1,0 +1,5 @@
+ping <destination>
+ping -n <destination>
+ping -a <destination>
+ping -t <destination>
+ping -l <destination>

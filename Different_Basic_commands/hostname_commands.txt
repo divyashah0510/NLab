@@ -1,0 +1,3 @@
+hostname
+echo "%COMPUTER_NAME%"
+"_CLUSTER_NETWORK_NAME_ = DIVYA_SHAH"

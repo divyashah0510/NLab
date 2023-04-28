@@ -1,0 +1,5 @@
+nslookup <url_to_be_used>
+nslookup <domain_name> <server_name>
+nslookup -debug [domain_name]
+nslookup -timeout [seconds] <server_name>
+nslookup -type = ns <url_to_be_used or ip_address>

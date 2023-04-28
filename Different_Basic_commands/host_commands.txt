@@ -1,0 +1,5 @@
+host
+host <IP_Address>
+host -a <IP_Address / url_to_be_used>
+host -v <IP_Address / url_to_be_used>
+host -t ns <IP_Address / url_to_be_used>

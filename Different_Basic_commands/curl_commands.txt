@@ -1,0 +1,3 @@
+curl -output <url_to_be_used>
+curl -data <url_to_be_used>
+curl --version <url_to_be_used>

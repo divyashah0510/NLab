@@ -1,0 +1,3 @@
+dig <url_to_be_used>
+dig <url_to_be_used> +trace
+dig <url_to_be_used> +noall +answer

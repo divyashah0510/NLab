@@ -1,0 +1,8 @@
+To run the tcpdump install it by command
+    - sudo apt install tcpdump
+for commands here are some commands to run 
+tcpdump -D
+tcpdump -e
+tcpdump -n
+tcpdump port 80 -w <capture_file>
+tcpdump -v -n
